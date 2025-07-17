@@ -1,7 +1,9 @@
 # 🛒 Big Mart Sales Prediction using IBM watsonx.ai AutoAI
 
-This project showcases how to use **IBM watsonx.ai AutoAI** to build an automated machine learning pipeline that predicts sales for Big Mart stores.  
-With AutoAI, we can quickly experiment with multiple models, automatically engineer features, and optimize performance — all without writing complex ML code from scratch.
+This project demonstrates how to predict sales for Big Mart stores by automating the machine learning workflow using **IBM watsonx.ai AutoAI**.  
+With AutoAI, we quickly built, evaluated, and compared multiple pipelines without manual coding — streamlining data preprocessing, feature engineering, and model selection.  
+The goal is to forecast `Item_Outlet_Sales` based on historical data to help retailers make data-driven decisions.  
+By leveraging AutoAI, we turned a complex ML process into a faster, repeatable, and more accessible solution.
 
 ---
 
@@ -75,12 +77,18 @@ With AutoAI, we can quickly experiment with multiple models, automatically engin
 
 ---
 
-## 🚀 Future Work
+## ✅ Conclusion
 
-- Manual feature engineering to compare with AutoAI
-- Additional hyperparameter tuning
-- Combine multiple top pipelines into an ensemble
-- Add a detailed EDA notebook
+Using **IBM watsonx.ai AutoAI**, we successfully built an end-to-end pipeline for predicting Big Mart store sales.  
+The automated process simplified complex ML tasks — from feature engineering to model selection and deployment — and delivered reliable results with minimal manual coding.  
+This project demonstrates the power of AutoAI in accelerating machine learning workflows and making advanced AI accessible to everyone.
+
 
 ---
+## ✍️ Author
+
+**Rishika Jalan**  
+- 📧 rishikajalan23.set@modyuniversity.ac.in
+- 🌐 www.linkedin.com/in/rishika-jalan-b97785289
+
 
