@@ -64,7 +64,6 @@ By leveraging AutoAI, we turned a complex ML process into a faster, repeatable, 
 | Pipeline Visualization | ![](screenshots/pipeline_visualization.png) |
 | Deployment Step | ![](screenshots/deployment.png) |
 
-*(Store your images inside a `/screenshots` folder in your repo.)*
 
 ---
 
