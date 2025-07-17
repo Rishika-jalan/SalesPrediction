@@ -17,7 +17,7 @@ With AutoAI, we can quickly experiment with multiple models, automatically engin
   - `Outlet_Location_Type`
   - etc.
 
-*(Data source: public datasets, e.g., Kaggle — (https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets))*
+*(Data source: public datasets, e.g., Kaggle — https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)*
 
 ---
 
