@@ -30,8 +30,7 @@ With AutoAI, we can quickly experiment with multiple models, automatically engin
    - Engineered new features
    - Trained multiple pipelines using algorithms like XGBoost, LGBM, etc.
 4. Evaluated models on validation data; selected best based on RMSE/R².
-5. (Optional) Deployed the best model as an API.
-6. Generated predictions on test data.
+5. Generated predictions on test data.
 
 ---
 
