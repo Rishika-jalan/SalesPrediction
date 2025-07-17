@@ -63,7 +63,7 @@ By leveraging AutoAI, we turned a complex ML process into a faster, repeatable, 
 | Leaderboard of Pipelines | ![](screenshots/leaderboard.png) |
 | Pipeline Visualization | ![](screenshots/pipeline_visualization.png) |
 | Deployment Step | ![](screenshots/deployment.png) |
-
+| Testing Step | ![](screenshots/testing.png) |
 
 ---
 
