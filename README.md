@@ -48,11 +48,8 @@ With AutoAI, we can quickly experiment with multiple models, automatically engin
 
 | Metric      | Score (example) |
 |------------:|----------------:|
-| R² (Validation) | 0.58 |
-| RMSE         | 1150 |
-
-> The AutoAI leaderboard compared pipelines and highlighted the top performing model.  
-> *(Replace these numbers with your actual results.)*
+| R² (Validation) | 0.601 |
+| RMSE         | 1067.382 |
 
 ---
 
@@ -87,6 +84,4 @@ With AutoAI, we can quickly experiment with multiple models, automatically engin
 - Add a detailed EDA notebook
 
 ---
-
-## 📂 Project Structure
 
